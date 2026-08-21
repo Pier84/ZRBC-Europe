@@ -1,0 +1,6 @@
+{
+  "name": "ZRBC Europe - Central Information System & Website",
+  "description": "Central Information System, Public Website, Back-Office Portal and LMS for Zion Raju International Pentecostal Bible College - Europe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
